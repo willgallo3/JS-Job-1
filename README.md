@@ -1,4 +1,4 @@
-# JS-Job-1
+# JS Job #1
 First job for Javascript API. Start this job after completion of the <a href="https://github.com/PuchongOffice/TestAuth" target="_blank">TestAuth job</a>.
 
 # Step 1
@@ -23,5 +23,20 @@ View it with the Encrypted Browser, at the URL it gives you (safe://YourSite.You
 
 # Step 6
 
-Look at the page, understand the tasks that it tells you. Mostly just needs to authorize, allow users to upload data, and be able to display the data they have uploaded.
+Look at the page, understand the tasks that it tells you. <br><br>Mostly just needs to authorize, allow users to upload data, and be able to display the data they have uploaded.
 
+# Step 7
+
+Use the <a href="http://docs.maidsafe.net/beaker-plugin-safe-app/">JAVASCRIPT API HERE</a> to add the functionality to the page.<br><br>
+Every time you edit the index.html file, you will need to re-upload it to test the changes that you have made.<br><br>
+You will need to use several of the Authentication APIs first, to 
+
+# Step 8
+
+If it all works, and it displays the user's files properly, and allows them to upload more, then <br><br><b><u>TASK COMPLETE & RECEIVE PAYMENT!!</b></u>
+
+# Step 9
+
+Look out for the next half of this job, which is the same thing, but making it a public page where multiple users can post their files to, so everyone can see them. Equal pay, and you've already finished most of the work by completing this job! Thanks!
+
+<b>$$ RECEIVE PAYMENT</b>
