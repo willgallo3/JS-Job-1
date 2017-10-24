@@ -27,15 +27,26 @@ Look at the page, understand the tasks that it tells you. <br><br>Mostly just ne
 
 # Step 7
 
+# Step 8 (optional, helpful)
+
+Here are lots of links to current projects that successfully do lots of these things, from authorization to uploading and changing files, etc. **You can feel free to copy any code from them!!:**
+ - <a href="https://github.com/josephm1/Safe-API-Overview" target="_blank">API Overview</a>
+ - <a href="https://github.com/josephm1/Vidy">Site for Video Uploading</a>
+ - <a href="https://github.com/josephm1/Listy">Site for submitting text / links</a>
+ - <a href="https://github.com/josephm1/Chaty">Site for sending messages</a>
+ - <a href="https://github.com/josephm1/Demoy" target="_blank">Site for uploading with Mutable Data Type</a>
+
+# Step 9
+
 Use the <a href="http://docs.maidsafe.net/beaker-plugin-safe-app/">JAVASCRIPT API HERE</a> to add the functionality to the page.<br><br>
 Every time you edit the index.html file, you will need to re-upload it to test the changes that you have made.<br><br>
 You will need to use several of the Authentication APIs first, to 
 
-# Step 8
+# Step 10
 
 If it all works, and it displays the user's files properly, and allows them to upload more, then <br><br><b><u>TASK COMPLETE & RECEIVE PAYMENT!!</b></u>
 
-# Step 9
+# Step 11
 
 Look out for the next half of this job, which is the same thing, but making it a public page where multiple users can post their files to, so everyone can see them. Equal pay, and you've already finished most of the work by completing this job! Thanks!
 
